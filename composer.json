@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/ConversionBug_Cookiebaseproduct",
+    "name": "OpenMageModuleFostering\/ConversionBug_Cookiebaseproduct",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "The cookies based recently viewed products extension keeps a track of the products viewed by the visitor and shows the recently viewed products in a product carousel on the website. ",
     "authors": [
-    {
-        "name": "shiv kumar singh",
-        "email": "shivam.kumar@conversionbug.com"
-    }
-],
+        {
+            "name": "shiv kumar singh",
+            "email": "shivam.kumar@conversionbug.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
