@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 The cookies based recently viewed products extension keeps a track of the products viewed by the visitor and shows the recently viewed products in a product carousel on the website. 
